@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I like learn new things**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> luquelectronico13@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
