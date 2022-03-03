@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">I´m just a programmer.</h3>
+<h3 align="center">I´m just a web developer and a gamer on free time.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyluke03&label=Profile%20views&color=0e75b6&style=flat" alt="soyluke03" /> </p>
