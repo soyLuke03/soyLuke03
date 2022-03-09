@@ -42,4 +42,4 @@
     * [IDE´s](https://github.com/soyLuke03/EntornosDeDesarrollo.git) 
      
 
-⌨️ con ❤️ por [soyLuke](https://github.com/soyLuke03)
+This ReadMe was ⌨️ with ❤️ by [soyLuke](https://github.com/soyLuke03)
